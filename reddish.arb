@@ -1,6 +1,6 @@
 !!ARBfp1.0
 TEMP tex;
 TEX tex, fragment.texcoord[0], texture[0], RECT;
-MUL tex, tex, {0.9, 0.5, 0.5, 1.0};
+MUL tex, tex, {1.0, 0.6, 0.6, 1.0};
 MOV result.color, tex.rgba;
 END
