@@ -4,6 +4,8 @@ mesopia
 Preserve your [mesopic vision](http://en.wikipedia.org/wiki/Mesopic_vision).
 For Linux users; tested on Ubuntu 12.04. Ubuntu 12.10 has a [bug](https://bugs.launchpad.net/ubuntu/+source/compiz-plugins-main/+bug/1093565) due to which compiz color filters don't work.
 
+*Update*: Because of the Ubuntu bug, I now use an alternate method. I use a [simple shell script](https://gist.github.com/hrj/6561271) that achieves the same effect.
+
 # About
 mesopia is a collection of Compiz color filters to help those who work in low-light environments.
 
